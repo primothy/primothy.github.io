@@ -535,7 +535,7 @@ td.body {
 
 .colhead {
   color: #d9d9d9;
-  background: #000000;
+  background: #121212;
   font-weight: 700;
   font-size: 12px;
   border-bottom: none;
@@ -2110,7 +2110,7 @@ div.user_details {
 }
 
 .forum_group_header {
-  background-color: #1a1a1a;
+  background-color: #242424;
   color: #d9d9d9;
   font-weight: 900;
   margin-top: 2px;
