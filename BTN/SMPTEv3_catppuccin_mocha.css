@@ -1011,6 +1011,7 @@ tr.rowa {
 td {
   border: 1px solid #45475a;
   padding: 5px;
+  border-right-width: 2px;
 }
 
 td.tdleft {
