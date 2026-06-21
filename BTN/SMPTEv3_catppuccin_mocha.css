@@ -1210,6 +1210,18 @@ tr.torrent {
   border: 0;
 }
 
+.tor_highlight_seed {
+  color: #a6e3a1 !important;
+}
+
+.tor_highlight_leech {
+  color: #f9e2af !important;
+}
+
+.tor_highlight_snatch {
+  color: #f38ba8 !important;
+}
+
 .season {
   color: #a6e3a1;
 }
