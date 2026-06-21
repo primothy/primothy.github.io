@@ -466,7 +466,7 @@ ul.thin li {
 #wrapper {
   width: 975px;
   padding: 1px 10px;
-  background: url("images/wbg.png") top center repeat-y;
+  background: url("images/wbg-mocha.png") top center repeat-y;
   margin: 0 auto;
 }
 
@@ -1011,7 +1011,6 @@ tr.rowa {
 td {
   border: 1px solid #45475a;
   padding: 5px;
-  border-right-width: 2px;
 }
 
 td.tdleft {
