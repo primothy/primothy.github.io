@@ -1076,7 +1076,7 @@ td.colhead,
 ul.navigation {
   background: url("https://cdn.broadcasthe.net/styles/smptev3/images/pattern.png")
     repeat scroll 0 0 #1e1e2e !important;
-  background-color: #181825 !important;
+  background-color: #45475a !important;
   color: #cdd6f4;
   text-align: center;
   list-style: none;
@@ -1098,7 +1098,7 @@ ul.navigation a {
 
 ul.navigation a:hover {
   color: #11111b;
-  background-color: #313244 !important;
+  background-color: #45475a !important;
 }
 
 ul.navigation a:focus {
@@ -1109,7 +1109,7 @@ ul.navigation a:focus {
 
 ul.navigation a.selected {
   color: #cba6f4 !important;
-  background-color: #313244 !important;
+  background-color: #45475a !important;
 }
 
 td.label {
