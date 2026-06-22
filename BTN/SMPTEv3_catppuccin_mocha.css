@@ -1109,7 +1109,7 @@ ul.navigation a:focus {
 
 ul.navigation a.selected {
   color: #cba6f4 !important;
-  background-color: #45475a !important;
+  background-color: #1e1e2e !important;
 }
 
 td.label {
