@@ -1499,8 +1499,8 @@ pre {
   margin: 0 auto;
 }
 
-.panel {
-  width: 579px!important;
+.scrollContainer div.panel table {
+  border-right: 2px solid #45475a;
 }
 
 .signature {
