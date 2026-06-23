@@ -1041,7 +1041,7 @@ td.tdright {
 
 .colhead {
   background: url("https://cdn.broadcasthe.net/styles/smptev3/images/pattern.png")
-    repeat scroll 0 0 #1e1e2e !important;
+    repeat scroll 0 0 #45475a !important;
   font-weight: bold;
   box-shadow: none !important;
   color: #cdd6f4;
@@ -1151,6 +1151,11 @@ table.slice {
 ul.stats li {
   padding: 0 0 1px 0;
 }
+
+.statistics li {
+  padding-left: 15px !important;
+}
+
 
 ul.poll li {
   padding: 0 0 0 10px;
