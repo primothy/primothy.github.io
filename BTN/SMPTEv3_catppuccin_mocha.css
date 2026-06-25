@@ -1500,7 +1500,7 @@ pre {
 }
 
 .scrollContainer div.panel table {
-  border-right: 2px solid #45475a
+  width: 579px !important;
 }
 
 .signature {
