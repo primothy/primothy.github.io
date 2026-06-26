@@ -1070,6 +1070,12 @@ ul.navigation {
   margin: 0px;
 }
 
+.statistics {
+  padding-left: 15px !important;
+  padding-top: 5px !important;
+  padding-bottom: 5px !important;
+}
+
 ul.navigation li {
   display: inline;
   margin-right: 10px;
