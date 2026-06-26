@@ -1302,6 +1302,24 @@ tr.torrent {
   color: #f9e2af;
 }
 
+img[title="Unread"],
+img[title="UnRead"] {
+  background: url("https://cdn.broadcasthe.net/styles/smptev3/images/unread.png")
+  no-repeat scroll 0 0 transparent;
+  height: 34px !important;
+  padding-right: 47px !important;
+  width: 0 !important;
+}
+
+img[title="Read"],
+img[title="Read"] {
+  background: url("https://cdn.broadcasthe.net/styles/smptev3/images/read.png")
+  no-repeat scroll 0 0 transparent;
+  height: 34px !important;
+  padding-right: 47px !important;
+  width: 0 !important;
+}
+
 table.forum_post {
   margin: 10px 0px;
 }
