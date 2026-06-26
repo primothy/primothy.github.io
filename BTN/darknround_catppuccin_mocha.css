@@ -839,6 +839,11 @@ li.ui-state-hover {
   color: #cba6f7 !important;
 }
 
+.ui-widget-content {
+  background: #45475a !important;
+  background-color: #45475a !important;
+}
+
 .vertical_space {
   margin-bottom: 10px;
 }
@@ -1089,18 +1094,18 @@ ul.navigation a {
 
 ul.navigation a:hover {
   color: #11111b;
-  background-color: #181825 !important;
+  background-color: #45475a !important;
 }
 
 ul.navigation a.selected {
   color: #cdd6f4 !important;
-  background-color: #11111b !important;
+  background-color: #45475a !important;
 }
 
 ul.navigation a:focus {
   color: #cdd6f4 !important;
   outline: none;
-  background-color: #11111b !important;
+  background-color: #45475a !important;
 }
 
 td.label {
@@ -1178,6 +1183,18 @@ ul.poll li.graph {
   vertical-align: top;
 }
 
+.tor_highlight_seed {
+  color: #a6e3a1 !important;
+}
+
+.tor_highlight_leech {
+  color: #f9e2af !important;
+}
+
+.tor_highlight_snatch {
+  color: #f38ba8 !important;
+}
+
 .colhead .sign,
 .colhead_dark .sign {
   padding: 0px 8px 0px 8px;
@@ -1201,11 +1218,11 @@ tr.torrent {
 }
 
 .season {
-  color: #f38ba8;
+  color: #a6e3a1;
 }
 
 .episode {
-  color: #89b4fa;
+  color: #74c7ec;
 }
 
 .torrent_table tr.group_torrent .year {
@@ -1852,6 +1869,8 @@ ul.potato-menu ul.potato-menu-group a:hover {
   background-image: none !important;
   color: #cba6f7 !important;
 }
+
+
 
 div#twitter {
   width: 22.5em;
