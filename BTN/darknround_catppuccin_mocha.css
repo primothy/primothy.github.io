@@ -30,7 +30,7 @@ body {
   font-family: tahoma, helvetica, sans-serif;
   font-size: 8pt;
   color: #cdd6f4;
-  background: #1e1e2e url("images/shadow-catppuccin-mocha.png");
+  background: #1e1e2e !important;
   background-repeat: no-repeat;
   background-position: top center;
 }
