@@ -1088,7 +1088,7 @@ ul.navigation a:hover {
 
 ul.navigation a.selected {
   color: #cdd6f4 !important;
-  background-color: #45475a !important;
+  background-color: #cba6f7 !important;
 }
 
 ul.navigation a:focus {
@@ -1306,7 +1306,7 @@ img[title="Unread"],
 img[title="UnRead"] {
   background: url("https://cdn.broadcasthe.net/styles/smptev3/images/unread.png")
   no-repeat scroll 0 0 transparent;
-  filter: hue-rotate(61deg);
+  filter: hue-rotate(61deg) saturate(.8);
   height: 34px !important;
   padding-right: 47px !important;
   width: 0 !important;
