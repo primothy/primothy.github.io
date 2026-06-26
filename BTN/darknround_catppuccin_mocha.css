@@ -538,17 +538,12 @@ ul.thin li {
 #userinfo_username {
   position: absolute;
   top: -145px;
-  right: 160px;
+  right: 163px;
   -webkit-border-radius: 1.25em;
   -moz-border-radius: 1.25em;
   border-radius: 1.25em;
   list-style: none;
   padding-top: 5px;
-  padding-right: 5px;
-  padding-left: 15px;
-  padding-bottom: 5px;
-  background-color: #181825;
-  border: 1px solid #181825;
   z-index: 1001;
   text-shadow: 1px 1px 1px #11111b;
 }
@@ -562,7 +557,7 @@ ul.thin li {
 #userinfo_stats {
   position: absolute;
   top: -50px;
-  right: 65px;
+  right: 53px;
   display: inline;
   text-align: left;
   -webkit-border-radius: 1.25em;
@@ -573,8 +568,6 @@ ul.thin li {
   padding-right: 15px;
   padding-left: 5px;
   padding-bottom: 5px;
-  background-color: #181825;
-  border: 1px solid #181825;
   width: auto;
   z-index: 1001;
   text-shadow: 1px 1px 1px #11111b;
@@ -590,11 +583,7 @@ ul.thin li {
   border-radius: 1.25em;
   list-style: none;
   padding-top: 5px;
-  padding-right: 15px;
-  padding-left: 5px;
-  padding-bottom: 5px;
-  background-color: #181825;
-  border: 1px solid #181825;
+  padding-right: 5px;
   z-index: 1001;
   text-shadow: 1px 1px 1px #11111b;
 }
